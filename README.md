@@ -17,5 +17,6 @@ ____
 # 5. Crear el pull request: 
 Para esto solo tenemos que ir a la pagina de nuestro repositorio en github, cambiar a la rama que acabamos de subir y darle a "New pull request" seleccionando la rama principal como destino
 ____
-#Integrantes
-Nicolás Zapata 
+#Integrantes:
+
+**Nicolás Zapata**
