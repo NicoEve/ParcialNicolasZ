@@ -16,7 +16,7 @@ Añadir todos los archivos modificados
 
 Hacer commit con un mensaje descriptivo
 **git commit -m " "**
-
+----
 ## 4. Subir la Rama al Repositorio Remoto:
 
 Sube tu rama al repositorio remoto:
