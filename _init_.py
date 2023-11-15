@@ -1,4 +1,4 @@
-from binarios import get_ascii, get_binary, get_results
+from Binarios import get_ascii, get_binary, get_results
 
 menu = int(input('Menu\n=====\n1. Character\n2. Word\n'))
 
