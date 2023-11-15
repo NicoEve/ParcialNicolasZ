@@ -1,9 +1,9 @@
 # ParcialNicolasZ
-## 1. Clonar el Repositorio:
+1. Clonar el Repositorio:
 
 Abrir la terminal y ejecutar el siguiente comando **"git clone <URL_del_repositorio>"** (reemplaza <URL_del_repositorio> con la URL real de tu repositorio):
 ----
-## 2. Crear y Cambiar de Rama:
+2. Crear y Cambiar de Rama:
 
 Crear y cambiar a la rama **git checkout -b " "** (reemplazar " " con el nombre de tu rama)
 ----
@@ -17,12 +17,12 @@ Añadir todos los archivos modificados
 Hacer commit con un mensaje descriptivo
 **git commit -m " "**
 ----
-## 4. Subir la Rama al Repositorio Remoto:
+4. Subir la Rama al Repositorio Remoto:
 
 Sube tu rama al repositorio remoto:
 **git push origin " "**
 ----
-##5. Crear Pull Request en GitHub:
+5. Crear Pull Request en GitHub:
 
 Ve a la página de tu repositorio en GitHub.
 Cambia a la rama que acabas de subir.
